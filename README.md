@@ -1,5 +1,9 @@
 # Reinsurance Strategy Optimizer
 
+**Live demo:** [priyamistry.shinyapps.io/ReinsuranceDashboard](https://priyamistry.shinyapps.io/ReinsuranceDashboard/)
+
+![Dashboard screenshot](assets/dashboard.png)
+
 An R Shiny dashboard for modeling Excess of Loss (XoL) reinsurance contracts. Adjust retention and limit parameters interactively to see how risk transfer affects your net loss distribution in real time.
 
 ## What it does
